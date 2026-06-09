@@ -17,8 +17,12 @@ model size, and conditioning, plus a class-conditional GAN as comparison.
 
 - `PixelArtGeneration_DiffusionModel.ipynb` — main DDPM pipeline
 - `PixelArtGeneration_GAN.ipynb` — class-conditional DCGAN baseline
-- `report.pdf` — full project report
+- `Report.pdf` — full project report
 
 ## Authors
 
-Beyza Nur Elaslan, Marthe Elgawly
+Marthe Elgawly — 2170201 
+elgawly.2170201@studenti.uniroma1.it
+
+Beyza Nur Elaslan — 2180876
+elaslan.2180876@studenti.uniroma1.it
